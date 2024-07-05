@@ -24,6 +24,8 @@ You can click the Preview link to take a look at your changes.
 
 Feel free to reach out to me if you have any suggestions or opportunities for collaboration! 
 
+<img src="https://myreadme.vercel.app/api/embed/dharanad?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 <p align="center">
 
 <a href=https://twitter.com/dharanad target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="dharanaditya" height="20" width="20" /></a>
