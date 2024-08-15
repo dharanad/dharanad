@@ -13,11 +13,13 @@ You can click the Preview link to take a look at your changes.
 
 * 👨‍💻 I am currently working with Kunato.ai, primariy on software crafted in Rust.
 * 🚀 I'm passionate about open source and contributing to [Datafusion](https://github.com/apache/datafusion)
-* 🧠 Interested in databases and large-scale distributed system.
+* 🧠 Interested in query engines, storage systems and their distributed variants.
 
 ### Other project I'm interested in
 
 - [Datafusion-Comet](https://github.com/apache/datafusion-comet) ✨
+- [arrow-rs](https://github.com/apache/arrow-rs)
+- [slatedb](https://github.com/slatedb/slatedb)
 
 
 ### Learn, Build & Create Impact.
