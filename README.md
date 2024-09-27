@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center">Hi there 👋, I'm Dharan Aditya</h2>
 
-* 👨‍💻 I am currently working with Kunato.ai, primariy on software crafted in Rust.
+* 👨‍💻 I am currently working with DataPelago, building next gen spark accelerator.
 * 🚀 I'm passionate about open source and contributing to [Datafusion](https://github.com/apache/datafusion)
 * 🧠 Interested in query engines, storage systems and their distributed variants.
 
@@ -26,7 +26,9 @@ You can click the Preview link to take a look at your changes.
 
 Feel free to reach out to me if you have any suggestions or opportunities for collaboration! 
 
-<img src="https://myreadme.vercel.app/api/embed/dharanad?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+![Dharan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharanad&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharanad&layout=compact)
 
 <p align="center">
 
